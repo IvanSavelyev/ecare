@@ -1,2 +1,2 @@
 # ecare
-# simple Spring MVS app
+# simple Spring MVC app
